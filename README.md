@@ -1,8 +1,10 @@
-# 👋 Hi, I’m Arash Ghanbari
+# Hello, I am Arash Ghanbari
+with 7 years of experience in the field of computer science, specializing in web design and development, game development, Telegram bots, logo design, and User Interface (UI) creation. 
 
-- 👀 I’m interested in **full-stack web development**, **game development**, and **building innovative Telegram bots**.
-- 🌱 I’m currently learning **advanced web technologies** and exploring **AI systems for Telegram bots and games**.
-- 💞️ I’m looking to collaborate on **projects that combine technology and creativity**, especially in **game development** and **web applications**.
-- 📫 How to reach me: You can reach me via **[Email](mailto:kavashx@gmail.com)**.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a website to send a message from web to telgram channel
+I started programming in Python at the age of 9, and since I didn’t have a computer, I had to use my mobile phone for coding. However, this did not deter my passion. After a few years, I got my own laptop and decided to learn front-end development. After three years of hard work, I was able to master front-end development and create many diverse websites.
+
+I place great importance on being organized and tidy, and I always strive to manage each project systematically to avoid any issues along the way.
+
+However, my interests are not limited to web design; over the past few years, I have worked on many projects, including creating Telegram bots, 2D and 3D games using the Unity engine, and designing logos and interfaces for various applications. 
+
+My goal is to leverage my growing experience and knowledge to create projects that meet the diverse needs of individuals and to execute your projects as clients in the best possible way.
