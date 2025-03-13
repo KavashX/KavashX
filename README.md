@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KavashX
+# 👋 Hi, I’m Arash Ghanbari
 
 - 👀 I’m interested in **full-stack web development**, **game development**, and **building innovative Telegram bots**.
 - 🌱 I’m currently learning **advanced web technologies** and exploring **AI systems for Telegram bots and games**.
