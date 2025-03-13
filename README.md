@@ -1,7 +1,7 @@
 # Hello, I'm Arash Ghanbari! 👋
 
 With **7 years of experience** in the field of **computer science**, I specialize in:
-- **Web Design & Development** 🌐
+- **Web Development** 🌐
 - **Game Development** 🎮
 - **Telegram Bots** 🤖
 - **Logo Design & UI/UX** 🎨
